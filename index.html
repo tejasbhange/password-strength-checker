@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Password Strength Checker</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/zxcvbn/4.4.2/zxcvbn.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h2>🔐 Smart Password Checker</h2>
+    <input type="password" id="password" placeholder="Type your password..." />
+    <div id="strength-bar" class="strength"></div>
+    <p id="result"></p>
+    <div class="suggestions" id="suggestions"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
