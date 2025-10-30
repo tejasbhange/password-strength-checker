@@ -1,11 +1,11 @@
-# 🔐 Password Strength Checker
+# Password Strength Checker
 
 A simple and smart web app that checks the strength of your password in real time using the **zxcvbn** library by Dropbox.  
 It analyzes password patterns and provides feedback to help users create strong and secure passwords.
 
 ---
 
-## 🌟 Features
+## Features
 
 ✅ Real-time password strength detection  
 ✅ Color-coded strength bar (Weak → Strong)  
@@ -15,10 +15,9 @@ It analyzes password patterns and provides feedback to help users create strong 
 
 ---
 
-## 🖥️ Live Demo
+##  Live Demo
 
-👉 **[View Website](https://tejasbhange.github.io/password-strength-checker/)**  
-*(Replace `your-username` with your actual GitHub username)*
+👉 **[View Website](https://tejasbhange.github.io/password-strength-checker/)**
 
 ---
 
